@@ -1,4 +1,4 @@
-# ⌨️ Typing Master Pro
+# ⌨️ Key Stride
 
 <p align="center">
   <strong>A modern browser-based typing practice and skill-building application</strong>
@@ -24,7 +24,7 @@
 
 ## 📌 About the Project
 
-**Typing Master Pro** is an interactive web application designed to help users improve their typing **speed, accuracy, consistency, and keyboard skills** through a structured learning experience.
+**Key stride** is an interactive web application designed to help users improve their typing **speed, accuracy, consistency, and keyboard skills** through a structured learning experience.
 
 Instead of being limited to a simple typing test, the project combines **guided lessons, typing drills, timed tests, typing games, performance statistics, achievements, customizable settings, local profiles, and a completion certificate** in one browser-based application.
 
@@ -36,7 +36,7 @@ The project is built with **HTML, CSS, and vanilla JavaScript**, making it light
 
 ## 🌐 Live Demo
 
-### 🚀 Try Typing Master Pro Online
+### 🚀 Try key stride Online
 
 **[👉 Open Live Website](https://tech-ankit-kumar.github.io/typing-master-pro/)**
 
@@ -351,7 +351,7 @@ After completing every lesson, open the certificate and print or save it as PDF.
 ## 📁 Project Structure
 
 ```text
-Typing-Master-Pro/
+Key Stride/
 │
 ├── index.html
 ├── README.md
@@ -479,16 +479,16 @@ You are welcome to explore the source code and use it for learning.
 
 ### **Ankit Kumar**
 
-**Typing Master Pro** — A browser-based typing practice and skill-development application.
+**Key Stride** — A browser-based typing practice and skill-development application.
 
 - 💻 GitHub: [tech-ankit-kumar](https://github.com/tech-ankit-kumar)
-- 🚀 Live Demo: [Typing Master Pro](https://tech-ankit-kumar.github.io/typing-master-pro/)
+- 🚀 Live Demo: [Key stride](https://tech-ankit-kumar.github.io/typing-master-pro/)
 
 ---
 
 ## 📌 Project Summary
 
-**Typing Master Pro** brings together:
+**Key Stride** brings together:
 
 > **Structured Lessons + Guided Drills + Timed Tests + Typing Games + Statistics + Gamification + Certificate**
 
