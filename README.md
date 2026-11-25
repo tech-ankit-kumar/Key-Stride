@@ -24,11 +24,7 @@
 
 ## 📌 About the Project
 
-<<<<<<< HEAD
-**Key stride** is an interactive web application designed to help users improve their typing **speed, accuracy, consistency, and keyboard skills** through a structured learning experience.
-=======
-**Typing Master Pro** is an interactive web application designed to help users improve their typing **speed, accuracy, consistency, and keyboard skills** through a structured learning experience.
->>>>>>> 848071f (Update project name to Key-Stride)
+**Key Stride** is an interactive web application designed to help users improve their **typing speed, accuracy, consistency, and keyboard skills** through a structured learning experience.
 
 Instead of being limited to a simple typing test, the project combines **guided lessons, typing drills, timed tests, typing games, performance statistics, achievements, customizable settings, local profiles, and a completion certificate** in one browser-based application.
 
@@ -40,13 +36,9 @@ The project is built with **HTML, CSS, and vanilla JavaScript**, making it light
 
 ## 🌐 Live Demo
 
-<<<<<<< HEAD
-### 🚀 Try key stride Online
-=======
-### 🚀 Try Typing Master Pro Online
->>>>>>> 848071f (Update project name to Key-Stride)
+### 🚀 Try Key Stride Online
 
-**[👉 Open Live Website](https://tech-ankit-kumar.github.io/typing-master-pro/)**
+**[👉 Open Live Website](https://tech-ankit-kumar.github.io/Key-Stride/)**
 
 No installation or backend setup is required to try the live version.
 
@@ -320,8 +312,8 @@ Personalized completion certificate unlocked after completing all lessons.
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/tech-ankit-kumar/typing-master-pro.git
-cd typing-master-pro
+git clone https://github.com/tech-ankit-kumar/Key-Stride.git
+cd Key-Stride
 ```
 
 Then open `index.html` in your browser.
@@ -359,11 +351,7 @@ After completing every lesson, open the certificate and print or save it as PDF.
 ## 📁 Project Structure
 
 ```text
-<<<<<<< HEAD
-Key Stride/
-=======
-Typing-Master-Pro/
->>>>>>> 848071f (Update project name to Key-Stride)
+Key-Stride/
 │
 ├── index.html
 ├── README.md
@@ -467,7 +455,7 @@ If you have an improvement in mind:
 
 ## ⭐ Support the Project
 
-If you find **Typing Master Pro** useful or interesting:
+If you find **Key Stride** useful or interesting:
 
 - ⭐ Star the repository
 - 🍴 Fork the project
@@ -491,27 +479,16 @@ You are welcome to explore the source code and use it for learning.
 
 ### **Ankit Kumar**
 
-<<<<<<< HEAD
 **Key Stride** — A browser-based typing practice and skill-development application.
 
 - 💻 GitHub: [tech-ankit-kumar](https://github.com/tech-ankit-kumar)
-- 🚀 Live Demo: [Key stride](https://tech-ankit-kumar.github.io/typing-master-pro/)
-=======
-**Typing Master Pro** — A browser-based typing practice and skill-development application.
-
-- 💻 GitHub: [tech-ankit-kumar](https://github.com/tech-ankit-kumar)
-- 🚀 Live Demo: [Typing Master Pro](https://tech-ankit-kumar.github.io/typing-master-pro/)
->>>>>>> 848071f (Update project name to Key-Stride)
+- 🚀 Live Demo: [Key Stride](https://tech-ankit-kumar.github.io/Key-Stride/)
 
 ---
 
 ## 📌 Project Summary
 
-<<<<<<< HEAD
 **Key Stride** brings together:
-=======
-**Typing Master Pro** brings together:
->>>>>>> 848071f (Update project name to Key-Stride)
 
 > **Structured Lessons + Guided Drills + Timed Tests + Typing Games + Statistics + Gamification + Certificate**
 
